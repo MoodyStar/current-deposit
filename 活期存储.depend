@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647789944 source:d:\数据结构\莫锦城\function.cpp
+	"head.h"
+
+1647789944 d:\数据结构\莫锦城\head.h
+	<iostream>
+	<string>
+
+1647775058 source:d:\数据结构\莫锦城\main.cpp
+	"head.h"
+
